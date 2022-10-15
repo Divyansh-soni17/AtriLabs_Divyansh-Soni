@@ -6,7 +6,11 @@ This is the home page made with atri framework.
  
  
 
- [https://drive.google.com/drive/u/0/folders/1i7nI1JdPg1rVDpwpy4adNzz3LmZ10Ksr](https://drive.google.com/drive/u/0/folders/1i7nI1JdPg1rVDpwpy4adNzz3LmZ10Ksr)
+ 
+
+ [https://drive.google.com/file/d/18NBI2kYmde4lgnJ7R6YAvzQBKK-zzbyR/view?usp=sharing](https://drive.google.com/file/d/18NBI2kYmde4lgnJ7R6YAvzQBKK-zzbyR/view?usp=sharing)
+
+ 
 
  
 
