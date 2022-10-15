@@ -1,0 +1,121 @@
+[
+  {
+    "str": "@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');",
+    "method": "css",
+    "imports": {
+      "fonts": [
+        {
+          "fontFamily": "Roboto",
+          "fontStyle": "normal",
+          "fontWeight": 500
+        }
+      ]
+    }
+  },
+  {
+    "str": "@import url('https://fonts.googleapis.com/css2?family=Inter:wght@200&display=swap');",
+    "method": "css",
+    "imports": {
+      "fonts": [
+        {
+          "fontFamily": "Inter",
+          "fontStyle": "normal",
+          "fontWeight": 200
+        }
+      ]
+    }
+  },
+  {
+    "str": "@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@300&display=swap');",
+    "method": "css",
+    "imports": {
+      "fonts": [
+        {
+          "fontFamily": "Roboto Slab",
+          "fontStyle": "normal",
+          "fontWeight": 300
+        }
+      ]
+    }
+  },
+  {
+    "str": "@import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');",
+    "method": "css",
+    "imports": {
+      "fonts": [
+        {
+          "fontFamily": "Quicksand",
+          "fontStyle": "normal",
+          "fontWeight": 400
+        }
+      ]
+    }
+  },
+  {
+    "str": "@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@500&display=swap');",
+    "method": "css",
+    "imports": {
+      "fonts": [
+        {
+          "fontFamily": "Quicksand",
+          "fontStyle": "normal",
+          "fontWeight": 500
+        }
+      ]
+    }
+  },
+  {
+    "str": "@import url('https://fonts.googleapis.com/css2?family=Mukta:wght@200&display=swap');",
+    "method": "css",
+    "imports": {
+      "fonts": [
+        {
+          "fontFamily": "Mukta",
+          "fontStyle": "normal",
+          "fontWeight": 200
+        }
+      ]
+    }
+  },
+  {
+    "str": "@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@300&family=Mukta:wght@200&display=swap');",
+    "method": "css",
+    "imports": {
+      "fonts": [
+        {
+          "fontFamily": "Merriweather",
+          "fontStyle": "normal",
+          "fontWeight": 300
+        },
+        {
+          "fontFamily": "Mukta",
+          "fontStyle": "normal",
+          "fontWeight": 200
+        }
+      ]
+    }
+  },
+  {
+    "str": "@import url('https://fonts.googleapis.com/css2?family=Kanit&family=Merriweather:wght@300&family=Mukta:wght@200&display=swap');",
+    "method": "css",
+    "imports": {
+      "fonts": [
+        {
+          "fontFamily": "Kanit",
+          "fontStyle": "normal",
+          "fontWeight": 400
+        },
+        {
+          "fontFamily": "Merriweather",
+          "fontStyle": "normal",
+          "fontWeight": 300
+        },
+        {
+          "fontFamily": "Mukta",
+          "fontStyle": "normal",
+          "fontWeight": 200
+        }
+      ]
+    }
+  }
+]
